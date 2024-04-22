@@ -1,0 +1,21 @@
+h1{
+    color:brown;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    border: 5px solid purple;
+    background-color: rgb(41, 35, 27);
+    color:azure;
+    padding: 20px;
+    margin: 20px;
+    
+
+}
+
+#span-first{
+    color: chartreuse;
+}

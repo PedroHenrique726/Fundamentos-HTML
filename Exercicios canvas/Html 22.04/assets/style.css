@@ -1,0 +1,72 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ff6363;
+}
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+    background-color: #ebcbcb;
+}
+
+
+h1 {
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+
+p {
+    color: #555;
+
+}
+
+
+img {
+    display: flex;
+    margin: auto;
+    max-width: 500px;
+    height: auto;
+    border: 2px solid #009688;
+}
+
+
+#titulo1 {
+    color: #010303;
+    text-align: center;
+}
+
+#texto1 {
+    font-size: 18px;
+    text-align: center;
+}
+
+
+h2 {
+    color: #af013b;
+    text-align: center;
+}
+
+.obras {
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.obras img {
+    display: flex;
+    margin: auto;
+    max-width: 500px;
+    height: auto;
+}
+
+.compositores {
+    margin: 30px;
+}
+
+.instrumentos {
+    margin-bottom: 30px;
+}
+
+
